@@ -216,3 +216,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+data/posts_soccer.json
+data/comments_soccer.json
