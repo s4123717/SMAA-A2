@@ -1,0 +1,27 @@
+GitHub Repository Access
+
+Repository Name:
+SMAA-A2
+
+Repository Link:
+https://github.com/s4123717/SMAA-A2.git
+
+Actual Data used (Google Drive link):
+https://drive.google.com/drive/folders/1wOfLDZTxruV7-jkDH8UCHChYqJBS-PHF?usp=drive_link
+
+Access Information:
+The repository is public and can be accessed directly using the link above.
+
+Repository Contents:
+- Jupyter notebooks for all analysis stages
+- Data collection script
+- Visualisations and figures
+- requirements.txt
+- README.md with setup and execution instructions
+
+Workflow:
+Run notebooks in the following order:
+1. 01_eda.ipynb
+2. 02_sentiment.ipynb
+3. 03_topic_modelling.ipynb
+4. 04_network_analysis.ipynb
